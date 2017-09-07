@@ -28,7 +28,7 @@
 
 ## 截图
 
-![第一天框架及首页](screenshoot/fenda1.gif)
+
 
 
 # 仿制分答
